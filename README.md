@@ -90,5 +90,7 @@ We welcome contributions from the community! Please see our contributing guideli
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Disclaimer
+
+
 This platform is for entertainment purposes. Please bet responsibly and never wager more than you can afford to lose. Gambling regulations vary by jurisdiction - ensure compliance with local laws.
+### Disclaimer<img width="1062" alt="Screenshot 2025-06-16 at 1 17 19 PM (1)" src="https://github.com/user-attachments/assets/b1859434-0642-4c79-b97a-41721ce40ce0" />
